@@ -12,6 +12,7 @@ class Timer {
   
   
   update() {
+    this.checkPlayerDoneLap();
   	this.currentTime = (Date.now() - this.startTime) / 1000;
   }
   
@@ -46,6 +47,13 @@ class Timer {
   reset() {
     this.startTime = Date.now();
   }
+  
+  checkPlayerDoneLap() {
+		if (dist(player.x, player.y, startLine.x, startLine.y) < player.r + startLine.r) {
+  		this.playerCompletedLap();
+    }
+  }
+
   
   
 

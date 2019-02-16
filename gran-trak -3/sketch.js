@@ -1,9 +1,7 @@
 let boundaries = [];
-let boundariesJson;
 let player;
-let timer;
-let startLine;
 const ROTATE_AMOUNT = 0.1;
+
 
 function preload() { 
 	loadJSON("boundaries.json", setupBoundaries);
@@ -19,6 +17,7 @@ function setupBoundaries(allBoundaries) {
 	} 
 }
 
+
 function setup() {
   createCanvas(400, 400);
   player = new Player();
@@ -28,53 +27,32 @@ function setup() {
 
 function draw() {
   background(0);
-
-  for (let boundary of boundaries) {
-  	boundary.draw();
-  }
-  
   player.update();
   player.draw();
   
+  for (let boundary of boundaries) {
+    boundary.checkCollision(player);
+  	boundary.draw();
+  }
+  
   timer.update();
   timer.draw();
-  hasPlayerHitBoundary();
-  
   
   startLine.draw();
-  
-  checkPlayerDoneLap();
-}
-
-function checkPlayerDoneLap() {
-
-	if (dist(player.x, player.y, startLine.x, startLine.y) < player.r + startLine.r) {
-  	timer.playerCompletedLap();
-  }
-}
-
-
-
-function hasPlayerHitBoundary() {
-	
-  for (let boundary of boundaries) {
-  	if (dist(player.x, player.y, boundary.x, boundary.y) < (player.r + boundary.r)) {
-      player.respawn();
-      timer.reset();
-    }
-  }
-
 }
 
 function mousePressed() {
 	boundaries.push(new Boundary(mouseX, mouseY)); 
 }
 
+
+
 function keyPressed() {
-  
+    // player clicks 's' it saves the boundaries to a file
   if (keyCode === 83) {
   	saveJSON(boundaries, 'boundaries.json');
-  } else if (keyCode == LEFT_ARROW) {
+  }
+  else if (keyCode == LEFT_ARROW) {
   	player.rotateAmount = -ROTATE_AMOUNT;
   } else if (keyCode == RIGHT_ARROW) {
 		player.rotateAmount = ROTATE_AMOUNT;
@@ -85,11 +63,9 @@ function keyPressed() {
   }
 }
 
+
 function keyReleased() {
 	if (keyCode == RIGHT_ARROW  || keyCode == LEFT_ARROW)  {
   	player.rotateAmount = 0;
   } 
 }
-
-
-
