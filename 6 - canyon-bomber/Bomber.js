@@ -1,14 +1,26 @@
 class Bomber {
 
-    constructor() {
-        this.x = -10;
+    constructor(direction) {
+        this.direction = direction;
+        if (this.direction == 0) {
+            this.x = -10;
+        } else if (this.direction == 1) {
+            this.x = width + 20;
+        }
+
         this.y = random(0, 200);
         this.bombs = [];
         this.r = 2.5;
+
     }
 
     update(blocks) {
-        this.x += 2;
+        if (this.direction == 0) {
+            this.x += 2;
+        } else if (this.direction == 1) {
+            this.x -= 2;
+        }
+
         this.constrain();
 
         this.updateBombs(blocks);
@@ -16,10 +28,19 @@ class Bomber {
     updateBombs(blocks) {
         for (let bomb of this.bombs) {
             bomb.y += 3;
-            bomb.x += 2;
+
+            if (this.direction == 0) {
+                bomb.x += 2;
+            } else if (this.direction == 1) {
+                bomb.x -= 2;
+            }
         }
 
+        this.checkBombCollision(blocks);
 
+    }
+
+    checkBombCollision(blocks) {
         for (let j = this.bombs.length - 1; j >= 0; j--) {
             for (let i = blocks.length - 1; i >= 0; i--) {
                 let bomb = this.bombs[j];
@@ -37,9 +58,14 @@ class Bomber {
         }
     }
 
+
+
     constrain() {
-        if (this.x > width + 20) {
+        if (this.direction == 0 && this.x > width + 20) {
             this.x = -10;
+            this.y = random(0, 200);
+        } else if (this.direction == 1 && this.x < -20) {
+            this.x = width + 20;
             this.y = random(0, 200);
         }
     }
@@ -53,7 +79,10 @@ class Bomber {
 
     drawBombs() {
         for (let bomb of this.bombs) {
+            push();
+            fill(255);
             ellipse(bomb.x, bomb.y, this.r * 2, this.r * 2);
+            pop();
         }
     }
 
@@ -61,8 +90,9 @@ class Bomber {
         let bomb = {
             x: this.x + 10,
             y: this.y + 20,
-            resistance: 4,
+            resistance: 4
         }
         this.bombs.push(bomb);
+
     }
 }
