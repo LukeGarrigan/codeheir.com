@@ -3,16 +3,31 @@ let canyon;
 let bomber;
 let bomber2;
 
+let bomerImage;
+let bomer2Image;
+
+function preload() { 
+  bomberImage = loadImage("playerOne.png");
+  bomer2Image = loadImage("playerTwo.png");
+}
+
 function setup() {
   createCanvas(400, 400);
   canyon = new Canyon();
-  bomber = new Bomber(0);
-  bomber2 = new Bomber(1);
+  bomber = new Bomber(0, bomberImage);
+  bomber2 = new Bomber(1, bomer2Image);
 }
 
 function draw() {
-  background(0);
-  frameRate(30);
+  background(115,113, 236);
+  frameRate(25);
+
+  push();
+  noStroke();
+  fill(112,110, 112);
+  rect(0, 0, width, 60 );
+  pop();
+
   canyon.update();
   canyon.draw();
 
@@ -29,11 +44,11 @@ function mouseClicked() {
 }
 
 function keyPressed() {
-  console.log(keyCode);
   if (keyCode === 32) {
     bomber.bomb();
   } 
-  if (keyCode === 66) {
+  // L for bomb
+  if (keyCode === 76) {
     bomber2.bomb();
   }
 }

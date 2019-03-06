@@ -15,12 +15,13 @@ class Block {
             this.y += 2;
         }
 
-        // noStroke();
+        noStroke();
         fill(this.r, this.g, this.b);
         rect(this.x, this.y, 20, 20);
     }
 
     moveDown() {
+
         if (this.y == this.endY) {
             this.endY += 20;
         }

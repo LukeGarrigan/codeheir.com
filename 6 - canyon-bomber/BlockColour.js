@@ -16,9 +16,9 @@ class BlockColour {
 
     createBlue() {
         return {
-            r: 100,
-            g: 100,
-            b: 255
+            r: 8,
+            g: 4,
+            b: 191
         }
 
 
