@@ -70,14 +70,12 @@ class Canyon {
     removeBlock(x, y) {
 
         for (let i = this.blocks.length - 1; i >= 0; i--) {
-            
+        
             let xPos = this.blocks[i].x + 10;
             let yPos = this.blocks[i].y + 10;
             if (dist(x, y, xPos, yPos) < 10) {
                 this.blocks.splice(i, 1);
             }
-
-
         }
     }
 
