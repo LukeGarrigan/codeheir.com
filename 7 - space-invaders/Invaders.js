@@ -5,6 +5,8 @@ class Invaders {
         this.direction = 0;
         this.y = 40;
         this.aliens = this.initialiseAliens();
+        this.bullets = [];
+        this.timeSinceLastBullet = 0;
     }
 
 
@@ -17,10 +19,30 @@ class Invaders {
             }
         }
 
+        this.updateBullets();
+
         if (this.hasChangedDirection()) {
             this.moveAlienDown();
         }
+
+
+
+        if (this.timeSinceLastBullet >= 40) {
+            let bottomAliens = this.getBottomAliens();
+
+            this.makeABottomAlienShoot(bottomAliens);
+        } 
+
+        this.timeSinceLastBullet++;
+        
     }
+
+    updateBullets() {
+        for (let bullet of this.bullets) {
+            bullet.y += 2;
+        }
+    }
+
 
     hasChangedDirection() {
         for (let alien of this.aliens) {
@@ -41,6 +63,54 @@ class Invaders {
         }
 
     }
+
+    getBottomAliens() {
+        let allXPositions = this.getAllXPositions();
+
+
+        let aliensAtTheBottom = [];
+        for (let alienAtX of allXPositions) {
+            let bestYPosition = 0;
+            let lowestAlien;
+
+            for (let alien of this.aliens) {
+                if (alien.x == alienAtX) {
+
+                    if (alien.y > bestYPosition) {
+                        bestYPosition = alien.y;
+                        lowestAlien = alien;
+                    }
+
+                }
+            }
+            aliensAtTheBottom.push(lowestAlien);
+        }
+
+        return aliensAtTheBottom;
+    }
+
+
+    makeABottomAlienShoot(bottomAliens) {
+        let shootingAlien = random(bottomAliens);
+
+        let bullet = {
+            x : shootingAlien.x + 10,
+            y : shootingAlien.y + 10
+        }
+        this.bullets.push(bullet);
+        this.timeSinceLastBullet = 0;
+    }
+
+
+
+    getAllXPositions() {
+
+        let allXPositions = new Set();
+        for (let alien of this.aliens) {
+            allXPositions.add(alien.x);
+        }
+        return allXPositions
+    }
     initialiseAliens() {
         let aliens = [];
         let y = 40;
@@ -54,9 +124,13 @@ class Invaders {
     }
 
     draw() {
+        for (let bullet of this.bullets) {
+            rect(bullet.x, bullet.y,  3, 10);
+        }
         for (let alien of this.aliens) {
             alien.draw();
         }
+
     }
 
     checkCollision(x, y) {

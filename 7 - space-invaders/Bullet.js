@@ -13,4 +13,8 @@ class Bullet {
         rect(this.x, this.y, 3, 10);
     }
 
+    isOffScreen() {
+        return this.y <= 0;
+    }
+
 }

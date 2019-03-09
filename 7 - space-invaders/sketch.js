@@ -15,7 +15,6 @@ function setup() {
 
 function draw() {
   background(0);
-  // frameRate(5);
  
   invaders.update();
   invaders.draw();
@@ -32,7 +31,6 @@ function mousePressed() {
 }
 
 function keyPressed() {
-  console.log(keyCode);
   if (keyCode === RIGHT_ARROW || keyCode == 88) {
     player.moveRight();
   } else if (keyCode === LEFT_ARROW || keyCode == 90) {

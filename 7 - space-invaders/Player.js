@@ -22,12 +22,13 @@ class Player {
     }
 
     updateBullets() {
-
+        
         for (let i = this.bullets.length - 1; i >= 0; i--) {
             this.bullets[i].update();
 
-            if (this.hasHitAlien(this.bullets[i])) {
+            if (this.hasHitAlien(this.bullets[i]) || this.bullets[i].isOffScreen()) {
                 this.bullets.splice(i, 1);
+                console.log(this.bullets.length);
                 break;
             }
         }
@@ -37,6 +38,8 @@ class Player {
     hasHitAlien(bullet) {
         return invaders.checkCollision(bullet.x, bullet.y);
     }
+
+
     constrain() {
 
         if (this.x <= 0) {
