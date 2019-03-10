@@ -7,19 +7,21 @@ class Invaders {
         this.aliens = this.initialiseAliens();
         this.bullets = [];
         this.timeSinceLastBullet = 0;
+        this.speed = 0.2;
+
     }
 
 
-    update() {
+    update(player) {
         for (let alien of this.aliens) {
             if (this.direction == 0) {
-                alien.x+=0.5;
+                alien.x+= this.speed;
             } else if (this.direction == 1) {
-                alien.x-=0.5;
+                alien.x-= this.speed;
             }
         }
 
-        this.updateBullets();
+        this.updateBullets(player);
 
         if (this.hasChangedDirection()) {
             this.moveAlienDown();
@@ -30,16 +32,32 @@ class Invaders {
         if (this.timeSinceLastBullet >= 40) {
             let bottomAliens = this.getBottomAliens();
 
-            this.makeABottomAlienShoot(bottomAliens);
+            if (bottomAliens.length) {
+                this.makeABottomAlienShoot(bottomAliens);
+            }
+            
         } 
 
         this.timeSinceLastBullet++;
+
+        if (this.aliens.length == 0) {
+            this.nextLevel();
+        }
         
     }
 
-    updateBullets() {
-        for (let bullet of this.bullets) {
-            bullet.y += 2;
+    updateBullets(player) {
+
+        for (let i = this.bullets.length - 1; i >= 0; i-- ) {
+            
+            this.bullets[i].y  += 2;
+
+            if (this.bullets[i].hasHit(player)) {
+                player.lives --;
+
+                this.bullets.splice(i ,1 );
+            }
+
         }
     }
 
@@ -67,7 +85,6 @@ class Invaders {
     getBottomAliens() {
         let allXPositions = this.getAllXPositions();
 
-
         let aliensAtTheBottom = [];
         for (let alienAtX of allXPositions) {
             let bestYPosition = 0;
@@ -93,24 +110,28 @@ class Invaders {
     makeABottomAlienShoot(bottomAliens) {
         let shootingAlien = random(bottomAliens);
 
-        let bullet = {
-            x : shootingAlien.x + 10,
-            y : shootingAlien.y + 10
-        }
+
+        let bullet = new AlienBullet(shootingAlien.x + 10, shootingAlien.y + 10);
+    
         this.bullets.push(bullet);
         this.timeSinceLastBullet = 0;
+    }
+
+    nextLevel() {
+        this.speed += 0.5;
+        this.aliens = this.initialiseAliens();
     }
 
 
 
     getAllXPositions() {
-
         let allXPositions = new Set();
         for (let alien of this.aliens) {
             allXPositions.add(alien.x);
         }
         return allXPositions
     }
+    
     initialiseAliens() {
         let aliens = [];
         let y = 40;

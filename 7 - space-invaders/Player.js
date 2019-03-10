@@ -7,6 +7,8 @@ class Player {
         this.isMovingLeft = false;
         this.isMovingRight = false;
         this.bullets = [];
+        this.lives = 3;
+        this.score = 0;
     }
 
     update() {
@@ -26,10 +28,14 @@ class Player {
         for (let i = this.bullets.length - 1; i >= 0; i--) {
             this.bullets[i].update();
 
-            if (this.hasHitAlien(this.bullets[i]) || this.bullets[i].isOffScreen()) {
+            if (this.hasHitAlien(this.bullets[i])) {
                 this.bullets.splice(i, 1);
-                console.log(this.bullets.length);
+                this.score += 10;
                 break;
+            } else if (this.bullets[i].isOffScreen()) {
+                this.bullets.splice(i, 1);
+                break;
+
             }
         }
     }
@@ -53,7 +59,12 @@ class Player {
         image(this.image, this.x, this.y, this.image.width / 20, this.image.height/20);
 
         this.drawBullets();
+
+        this.drawLives();
+
+        this.drawScore();
     }
+
 
     drawBullets() {
         for (let bullet of this.bullets) {
@@ -61,6 +72,25 @@ class Player {
         }
     }
 
+
+    drawLives() {
+        fill(255);
+        textSize(15);
+        text("LIVES", 250, 25);
+        for (let i = 0; i < this.lives; i++) {
+            image(this.image, 300 + i * 30, 10, this.image.width / 20, this.image.height/20);
+        }
+    }
+
+    drawScore() {
+
+        text("SCORE", 50, 25);
+
+        push();
+        fill(100, 255, 100);
+        text(this.score, 110, 25);
+        pop();
+    }
 
     moveLeft() {
         this.isMovingRight = false;
@@ -72,7 +102,7 @@ class Player {
     }
 
     shoot() {
-        this.bullets.push(new Bullet(this.x + 12, this.y));
+        this.bullets.push(new PlayerBullet(this.x + 12, this.y));
     }
 
 }

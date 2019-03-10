@@ -16,11 +16,15 @@ function setup() {
 function draw() {
   background(0);
  
-  invaders.update();
+  invaders.update(player);
   invaders.draw();
 
   player.update();
   player.draw();
+
+  if (player.lives == 0) {
+    setup();
+  }
 
 }
 

@@ -4,10 +4,6 @@ class Bullet {
         this.y = y;
     }
 
-
-    update() {
-        this.y -= 5;
-    }
     draw() {
         fill(255);
         rect(this.x, this.y, 3, 10);
@@ -15,6 +11,10 @@ class Bullet {
 
     isOffScreen() {
         return this.y <= 0;
+    }
+
+    hasHit(player) {
+        return dist(this.x, this.y, player.x + 10, player.y + 10) < 20;
     }
 
 }
