@@ -17,3 +17,5 @@ The idea is to go through the evolution of games. Starting from 1972 I am releas
 
 **Week 6:** [How to code Canyon Bomber (1977) – 6](https://codeheir.com/2019/03/10/how-to-code-canyon-bomber-1977-6/)
 
+**Week 7:** [How to code Space Invaders (1978) – 6](https://codeheir.com/2019/03/10/how-to-code-canyon-bomber-1977-6/)
+
