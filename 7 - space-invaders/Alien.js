@@ -10,7 +10,4 @@ class Alien {
         image(this.image, this.x, this.y, this.image.width/30, this.image.height/30);
     }
 
-
-
-
 }
