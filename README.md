@@ -1,9 +1,10 @@
 # codeheir.com
 
-A repository for all the games that I make for my blog at https://codeheir.com/.
+A repository for all the blogs that I write at https://codeheir.com/ with appropriate links and pointers to any code I've wrote.
+
+## Evolution of Games Series
 
 The idea is to go through the evolution of games. Starting from 1972 I am releasing a new blog every week with my favourite game from that year. If anyone has any suggestions on certain games they would like me to code up, let me know at twitter.com/codeheir.
-
 
 **Week 1:** [How to code Pong! (1972) – 1](https://codeheir.com/2019/02/04/how-to-code-pong-1972-1/)
 
@@ -21,3 +22,6 @@ The idea is to go through the evolution of games. Starting from 1972 I am releas
 
 **Week 8:** [How to code Monaco GP (1979) – 8](https://codeheir.com/2019/03/31/how-to-code-monaco-gp-1979-8/)
 
+## Uncategorised 
+
+- [Create a Node module using TypeScript](https://codeheir.com/2019/04/19/creating-a-node-module-with-typescript/):  ([GitHub](https://github.com/LukeGarrigan/async-encrypted-disk-cache))
