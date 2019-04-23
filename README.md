@@ -24,4 +24,4 @@ The idea is to go through the evolution of games. Starting from 1972 I am releas
 
 ## Uncategorised 
 
-- [Create a Node module using TypeScript](https://codeheir.com/2019/04/19/creating-a-node-module-with-typescript/):  ([GitHub](https://github.com/LukeGarrigan/async-encrypted-disk-cache))
+- [Create a Node module using TypeScript](https://codeheir.com/2019/04/19/creating-a-node-module-with-typescript/):  ([GitHub](https://github.com/LukeGarrigan/async-encrypted-disk-cache) | [NPM](https://www.npmjs.com/package/encrypt-async-cache))
