@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ce6ea866-bd35-4baa-81d7-758afdfb202b" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/1 - pong/Ball.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/1 - pong/Paddle.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/1 - pong/Score.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/1 - pong/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/1 - pong/p5.dom.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/1 - pong/p5.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/1 - pong/p5.sound.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/1 - pong/sketch.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/1 - pong/style.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/2 - space-race/Debris.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/2 - space-race/Score.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/2 - space-race/Ship.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/2 - space-race/Timer.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/2 - space-race/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/2 - space-race/p5.dom.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/2 - space-race/p5.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/2 - space-race/p5.sound.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/2 - space-race/sketch.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/2 - space-race/spaceship.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/2 - space-race/style.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/3 - gran-trak/Boundary.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/3 - gran-trak/Player.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/3 - gran-trak/StartLine.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/3 - gran-trak/Timer.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/3 - gran-trak/boundaries.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/3 - gran-trak/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/3 - gran-trak/p5.dom.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/3 - gran-trak/p5.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/3 - gran-trak/p5.sound.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/3 - gran-trak/sketch.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/3 - gran-trak/style.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/4 - jet-fighter/Bullet.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/4 - jet-fighter/Jet.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/4 - jet-fighter/black-jet.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/4 - jet-fighter/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/4 - jet-fighter/p5.dom.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/4 - jet-fighter/p5.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/4 - jet-fighter/p5.sound.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/4 - jet-fighter/sketch.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/4 - jet-fighter/style.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/4 - jet-fighter/white-jet.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/5 - blockade/AI.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/5 - blockade/Edge.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/5 - blockade/Player.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/5 - blockade/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/5 - blockade/p5.dom.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/5 - blockade/p5.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/5 - blockade/p5.sound.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/5 - blockade/sketch.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/5 - blockade/style.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/6 - canyon-bomber/Block.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/6 - canyon-bomber/BlockColour.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/6 - canyon-bomber/Bomber.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/6 - canyon-bomber/Canyon.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/6 - canyon-bomber/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/6 - canyon-bomber/p5.dom.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/6 - canyon-bomber/p5.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/6 - canyon-bomber/p5.sound.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/6 - canyon-bomber/playerOne.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/6 - canyon-bomber/playerTwo.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/6 - canyon-bomber/sketch.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/6 - canyon-bomber/style.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/7 - space-invaders/Alien.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/7 - space-invaders/AlienBullet.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/7 - space-invaders/Bullet.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/7 - space-invaders/Invaders.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/7 - space-invaders/Player.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/7 - space-invaders/PlayerBullet.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/7 - space-invaders/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/7 - space-invaders/invader1.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/7 - space-invaders/p5.dom.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/7 - space-invaders/p5.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/7 - space-invaders/p5.sound.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/7 - space-invaders/shooter.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/7 - space-invaders/sketch.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/7 - space-invaders/style.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/8 - Monaco GP/.idea/8 - Monaco GP.iml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/8 - Monaco GP/.idea/inspectionProfiles/profiles_settings.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/8 - Monaco GP/.idea/modules.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/8 - Monaco GP/.idea/workspace.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/8 - Monaco GP/Player.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/8 - Monaco GP/Racer.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/8 - Monaco GP/green.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/8 - Monaco GP/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/8 - Monaco GP/lightblue.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/8 - Monaco GP/p5.dom.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/8 - Monaco GP/p5.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/8 - Monaco GP/p5.sound.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/8 - Monaco GP/pink.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/8 - Monaco GP/red.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/8 - Monaco GP/sketch.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/8 - Monaco GP/style.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/8 - Monaco GP/teal.png" afterPath="" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="codeheir.com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="codeheir.com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="codeheir.com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="codeheir.com" type="462c0819:PsiDirectoryNode" />
+              <item name="evolution-of-games" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="codeheir.com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="codeheir.com" type="462c0819:PsiDirectoryNode" />
+              <item name="evolution-of-games" type="462c0819:PsiDirectoryNode" />
+              <item name="9 - Missle Command" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\lukeg\Documents\P5Projects\codeheir.com\evolution-of-games\9 - Missle Command" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ce6ea866-bd35-4baa-81d7-758afdfb202b" name="Default" comment="" />
+      <created>1557944517174</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1557944517174</updated>
+      <workItem from="1557944518716" duration="32000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="32000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Azure Explorer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Azure Activity Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="HDInsight Spark Submission" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Remote Spark Job in Cluster" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug Remote Spark Job in Cluster" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
