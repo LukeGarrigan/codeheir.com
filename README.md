@@ -25,3 +25,7 @@ The idea is to go through the evolution of games. Starting from 1972 I am releas
 ## Uncategorised 
 
 - [Create a Node module using TypeScript](https://codeheir.com/2019/04/19/creating-a-node-module-with-typescript/):  ([GitHub](https://github.com/LukeGarrigan/async-encrypted-disk-cache) | [NPM](https://www.npmjs.com/package/encrypt-async-cache))
+- [How to code multiplayer games with p5!](https://codeheir.com/2019/05/11/how-to-code/): ([GitHub](https://github.com/LukeGarrigan/p5-multiplayer-game-starter))
+- [Why your company should enforce typescript](https://codeheir.com/2019/05/25/why-your-company-should-enforce-typescript/)
+
+
