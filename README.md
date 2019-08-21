@@ -2,6 +2,17 @@
 
 A repository for all the blogs that I write at https://codeheir.com/ with appropriate links and pointers to any code I've wrote.
 
+## General Dev Blogs 
+
+- [Create a Node module using TypeScript](https://codeheir.com/2019/04/19/creating-a-node-module-with-typescript/):  ([GitHub](https://github.com/LukeGarrigan/async-encrypted-disk-cache) | [NPM](https://www.npmjs.com/package/encrypt-async-cache))
+- [How to code multiplayer games with p5!](https://codeheir.com/2019/05/11/how-to-code/): ([GitHub](https://github.com/LukeGarrigan/p5-multiplayer-game-starter))
+- [Why your company should enforce typescript](https://codeheir.com/2019/05/25/why-your-company-should-enforce-typescript/)
+- [Why Codewars is the best way to learn a new programming language!](https://codeheir.com/2019/07/27/why-codewars-is-the-best-way-to-learn-a-new-programming-language/)
+- [Top 5 tips to be a better programmer without programming!](https://codeheir.com/2019/08/03/top-5-tips-to-be-a-better-programmer-without-programming/)
+- [Why developers are SO sh*t at estimating!](https://codeheir.com/2019/08/10/why-developers-are-so-sht-at-estimating/)
+- [Top 5 BEST games to code as a beginner!](https://codeheir.com/2019/08/17/top-5-best-games-to-code-as-a-beginner/)
+
+
 ## Evolution of Games Series
 
 The idea is to go through the evolution of games. Starting from 1972 I am releasing a new blog every week with my favourite game from that year. If anyone has any suggestions on certain games they would like me to code up, let me know at twitter.com/codeheir.
@@ -22,10 +33,6 @@ The idea is to go through the evolution of games. Starting from 1972 I am releas
 
 **Week 8:** [How to code Monaco GP (1979) – 8](https://codeheir.com/2019/03/31/how-to-code-monaco-gp-1979-8/)
 
-## Uncategorised 
 
-- [Create a Node module using TypeScript](https://codeheir.com/2019/04/19/creating-a-node-module-with-typescript/):  ([GitHub](https://github.com/LukeGarrigan/async-encrypted-disk-cache) | [NPM](https://www.npmjs.com/package/encrypt-async-cache))
-- [How to code multiplayer games with p5!](https://codeheir.com/2019/05/11/how-to-code/): ([GitHub](https://github.com/LukeGarrigan/p5-multiplayer-game-starter))
-- [Why your company should enforce typescript](https://codeheir.com/2019/05/25/why-your-company-should-enforce-typescript/)
 
 
