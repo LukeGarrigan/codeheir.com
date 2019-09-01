@@ -11,7 +11,7 @@ A repository for all the blogs that I write at https://codeheir.com/ with approp
 - [Top 5 tips to be a better programmer without programming!](https://codeheir.com/2019/08/03/top-5-tips-to-be-a-better-programmer-without-programming/)
 - [Why developers are SO sh*t at estimating!](https://codeheir.com/2019/08/10/why-developers-are-so-sht-at-estimating/)
 - [Top 5 BEST games to code as a beginner!](https://codeheir.com/2019/08/17/top-5-best-games-to-code-as-a-beginner/)
-
+- [The Programming Language That Changed My Life!](https://dev.to/lukegarrigan/the-programming-language-that-changed-my-life-2kc7)
 
 ## Evolution of Games Series
 
@@ -32,7 +32,6 @@ The idea is to go through the evolution of games. Starting from 1972 I am releas
 **Week 7:** [How to code Space Invaders (1978) – 7](https://codeheir.com/2019/03/17/how-to-code-space-invaders-1978-7/)
 
 **Week 8:** [How to code Monaco GP (1979) – 8](https://codeheir.com/2019/03/31/how-to-code-monaco-gp-1979-8/)
-
 
 
 
