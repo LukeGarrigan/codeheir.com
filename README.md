@@ -11,6 +11,7 @@ A repository for all the blogs that I write at https://codeheir.com/ with approp
 - [Top 5 tips to be a better programmer without programming!](https://codeheir.com/2019/08/03/top-5-tips-to-be-a-better-programmer-without-programming/)
 - [Why developers are SO sh*t at estimating!](https://codeheir.com/2019/08/10/why-developers-are-so-sht-at-estimating/)
 - [Top 5 BEST games to code as a beginner!](https://codeheir.com/2019/08/17/top-5-best-games-to-code-as-a-beginner/)
+- [The ONE book every developer MUST read!](https://dev.to/lukegarrigan/the-one-book-every-developer-must-read-33p9)
 - [The Programming Language That Changed My Life!](https://dev.to/lukegarrigan/the-programming-language-that-changed-my-life-2kc7)
 
 ## Evolution of Games Series
