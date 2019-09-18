@@ -3,6 +3,7 @@
 A repository for all the blogs that I write at https://codeheir.com/ with appropriate links and pointers to any code I've wrote.
 
 ## General Dev Blogs 
+Most of the general blogs can also be found on [dev.to](https://dev.to/lukegarrigan).
 
 - [Create a Node module using TypeScript](https://codeheir.com/2019/04/19/creating-a-node-module-with-typescript/):  ([GitHub](https://github.com/LukeGarrigan/async-encrypted-disk-cache) | [NPM](https://www.npmjs.com/package/encrypt-async-cache))
 - [How to code multiplayer games with p5!](https://codeheir.com/2019/05/11/how-to-code/): ([GitHub](https://github.com/LukeGarrigan/p5-multiplayer-game-starter))
