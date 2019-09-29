@@ -17,7 +17,7 @@ Most of the general blogs can also be found on [dev.to](https://dev.to/lukegarri
 - [Why I FAILED at live-coding!! 🤔💻❌](https://codeheir.com/2019/09/07/why-i-failed-at-live-coding-%f0%9f%a4%94%f0%9f%92%bb%e2%9d%8c/)
 - [50 Keybinds EVERY Intellij user MUST know! ⌨✔](https://codeheir.com/2019/09/13/50-keybinds-every-intellij-user-must-know-%e2%8c%a8%e2%9c%94/)
 - [Code a BRILLIANT multiplayer game 🚀 in 2 MINUTES!](https://dev.to/lukegarrigan/code-a-brilliant-multiplayer-game-in-2-minutes-2gdd)
-
+- [Put Your Dog In Version Control!🐶](https://dev.to/lukegarrigan/put-your-dog-in-version-control-2l8p)
 
 ## Evolution of Games Series
 
@@ -38,6 +38,5 @@ The idea is to go through the evolution of games. Starting from 1972 I am releas
 **Week 7:** [How to code Space Invaders (1978) – 7](https://codeheir.com/2019/03/17/how-to-code-space-invaders-1978-7/)
 
 **Week 8:** [How to code Monaco GP (1979) – 8](https://codeheir.com/2019/03/31/how-to-code-monaco-gp-1979-8/)
-
 
 
