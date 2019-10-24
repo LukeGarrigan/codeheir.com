@@ -18,7 +18,7 @@ Most of the general blogs can also be found on [dev.to](https://dev.to/lukegarri
 - [50 Keybinds EVERY Intellij user MUST know! ⌨✔](https://codeheir.com/2019/09/13/50-keybinds-every-intellij-user-must-know-%e2%8c%a8%e2%9c%94/)
 - [Code a BRILLIANT multiplayer game 🚀 in 2 MINUTES!](https://dev.to/lukegarrigan/code-a-brilliant-multiplayer-game-in-2-minutes-2gdd)
 - [Put Your Dog In Version Control!🐶](https://dev.to/lukegarrigan/put-your-dog-in-version-control-2l8p)
-- [The SIMPLEST way to make a pull request!](https://dev.to/lukegarrigan/the-simplest-way-to-make-a-pull-request-2h61)
+- [The SIMPLEST way to make a pull request!🌲✔️](https://dev.to/lukegarrigan/the-simplest-way-to-make-a-pull-request-2h61)
 
 ## Evolution of Games Series
 
