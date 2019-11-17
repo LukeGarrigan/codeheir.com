@@ -19,6 +19,7 @@ Most of the general blogs can also be found on [dev.to](https://dev.to/lukegarri
 - [Code a BRILLIANT multiplayer game 🚀 in 2 MINUTES!](https://dev.to/lukegarrigan/code-a-brilliant-multiplayer-game-in-2-minutes-2gdd)
 - [Put Your Dog In Version Control!🐶](https://dev.to/lukegarrigan/put-your-dog-in-version-control-2l8p)
 - [The SIMPLEST way to make a pull request!🌲✔️](https://dev.to/lukegarrigan/the-simplest-way-to-make-a-pull-request-2h61)
+- [Making bots in seconds!](https://dev.to/lukegarrigan/creating-bots-in-seconds-50fm)
 
 ## Evolution of Games Series
 
