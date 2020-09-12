@@ -19,7 +19,12 @@ Most of the general blogs can also be found on [dev.to](https://dev.to/lukegarri
 - [Code a BRILLIANT multiplayer game 🚀 in 2 MINUTES!](https://dev.to/lukegarrigan/code-a-brilliant-multiplayer-game-in-2-minutes-2gdd)
 - [Put Your Dog In Version Control!🐶](https://dev.to/lukegarrigan/put-your-dog-in-version-control-2l8p)
 - [The SIMPLEST way to make a pull request!🌲✔️](https://dev.to/lukegarrigan/the-simplest-way-to-make-a-pull-request-2h61)
-- [Making bots in seconds!](https://dev.to/lukegarrigan/creating-bots-in-seconds-50fm)
+- [The ONE tip you need to actually finish your side projects!](https://codeheir.com/2020/02/01/the-one-tip-you-need-to-actually-finish-your-side-projects/)
+- [How to code a discord bot!](https://codeheir.com/2020/07/25/how-to-code-a-discord-bot/)
+- [How to write a personal GitHub README.md](https://codeheir.com/2020/08/01/how-to-write-a-personal-github-readme-md/)
+- [https://codeheir.com/2020/08/29/the-simplest-way-to-make-a-pull-request-%f0%9f%8c%b2/](https://codeheir.com/2020/08/29/the-simplest-way-to-make-a-pull-request-%f0%9f%8c%b2/)
+- [How To Code An Alexa Skill 🤖](https://codeheir.com/2020/08/30/how-to-code-an-alexa-skill-%f0%9f%a4%96/)
+- [How To Code Flappy Bird 🐤](https://codeheir.com/2020/09/12/how-to-code-flappy-bird-%f0%9f%90%a4/): ([P5js Editor](https://editor.p5js.org/codeheir/sketches/P0weMcRNJ))
 
 ## Evolution of Games Series
 
