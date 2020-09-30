@@ -1,4 +1,4 @@
-# codeheir.com
+# codeheir.com - An amazing project
 
 A repository for all the blogs that I write at https://codeheir.com/ with appropriate links and pointers to any code I've wrote.
 
@@ -26,7 +26,7 @@ Most of the general blogs can also be found on [dev.to](https://dev.to/lukegarri
 - [How To Code An Alexa Skill 🤖](https://codeheir.com/2020/08/30/how-to-code-an-alexa-skill-%f0%9f%a4%96/)
 - [How To Code Flappy Bird 🐤](https://codeheir.com/2020/09/12/how-to-code-flappy-bird-%f0%9f%90%a4/): ([P5js Editor](https://editor.p5js.org/codeheir/sketches/P0weMcRNJ))
 
-## Evolution of Games Series
+## Evolution of Games Series :-)
 
 The idea is to go through the evolution of games. Starting from 1972 I am releasing a new blog every week with my favourite game from that year. If anyone has any suggestions on certain games they would like me to code up, let me know at twitter.com/codeheir.
 
