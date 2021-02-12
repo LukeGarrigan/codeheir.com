@@ -1,6 +1,6 @@
 # codeheir.com
 
-A repository for all the blogs that I write at https://codeheir.com/ with appropriate links and pointers to any code I've wrote.
+A repository for all the blogs that I write at https://codeheir.com/ with appropriate links and pointers to any code I've written.
 
 ## General Dev Blogs 
 Most of the general blogs can also be found on [dev.to](https://dev.to/lukegarrigan).
