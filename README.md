@@ -25,6 +25,12 @@ Most of the general blogs can also be found on [dev.to](https://dev.to/lukegarri
 - [How to write a personal GitHub README.md](https://codeheir.com/2020/08/01/how-to-write-a-personal-github-readme-md/)
 - [How To Code An Alexa Skill 🤖](https://codeheir.com/2020/08/30/how-to-code-an-alexa-skill-%f0%9f%a4%96/)
 - [How To Code Flappy Bird 🐤](https://codeheir.com/2020/09/12/how-to-code-flappy-bird-%f0%9f%90%a4/): ([P5js Editor](https://editor.p5js.org/codeheir/sketches/P0weMcRNJ))
+- [Creating a Node.js command-line package](https://codeheir.com/2020/10/03/creating-a-node-js-command-line-package/)
+- [Code a Pokémon Discord bot](https://codeheir.com/2021/01/13/code-a-pokemon-discord-bot/)
+- [Procedurally generate a universe](https://codeheir.com/2021/01/30/procedurally-generate-an-entire-universe/)
+- [How to sell your API](https://codeheir.com/2021/02/04/how-to-sell-your-api/)
+- [How To Code A Game As A Beginner
+](https://codeheir.com/2021/02/06/how-to-code-a-game-as-a-beginner/)
 
 ## Evolution of Games Series
 
