@@ -31,6 +31,11 @@ Most of the general blogs can also be found on [dev.to](https://dev.to/lukegarri
 - [How to sell your API](https://codeheir.com/2021/02/04/how-to-sell-your-api/)
 - [How To Code A Game As A Beginner
 ](https://codeheir.com/2021/02/06/how-to-code-a-game-as-a-beginner/)
+- [Coding Chess with TDD](https://codeheir.com/2021/02/13/coding-chess-with-tdd/)
+- [Code Multiplayer Games w/ Multiple Rooms 🚀](https://codeheir.com/2021/02/20/code-multiplayer-games-w-multiple-rooms-%f0%9f%9a%80/)
+- [Coding a Planning Poker app](https://codeheir.com/2021/02/27/coding-a-planning-poker-app/)
+- [How to code Doodle Jump!](https://codeheir.com/2021/03/13/how-to-code-doodle-jump/)
+- [Regex: From beginner to best on your team in one blog](https://codeheir.com/2021/03/20/regex-from-beginner-to-best-on-your-team-in-one-blog/)
 
 ## Evolution of Games Series
 
