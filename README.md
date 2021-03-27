@@ -36,6 +36,7 @@ Most of the general blogs can also be found on [dev.to](https://dev.to/lukegarri
 - [Coding a Planning Poker app](https://codeheir.com/2021/02/27/coding-a-planning-poker-app/)
 - [How to code Doodle Jump!](https://codeheir.com/2021/03/13/how-to-code-doodle-jump/)
 - [Regex: From beginner to best on your team in one blog](https://codeheir.com/2021/03/20/regex-from-beginner-to-best-on-your-team-in-one-blog/)
+- [The Flocking Algorithm](https://codeheir.com/2021/03/27/the-flocking-algorithm/): ([P5js Editor](https://editor.p5js.org/codeheir/sketches/73Fnq0QyW))
 
 ## Evolution of Games Series
 
