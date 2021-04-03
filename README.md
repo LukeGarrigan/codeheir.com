@@ -37,6 +37,7 @@ Most of the general blogs can also be found on [dev.to](https://dev.to/lukegarri
 - [How to code Doodle Jump!](https://codeheir.com/2021/03/13/how-to-code-doodle-jump/)
 - [Regex: From beginner to best on your team in one blog](https://codeheir.com/2021/03/20/regex-from-beginner-to-best-on-your-team-in-one-blog/)
 - [The Flocking Algorithm](https://codeheir.com/2021/03/27/the-flocking-algorithm/): ([P5js Editor](https://editor.p5js.org/codeheir/sketches/73Fnq0QyW))
+- [Genetic Algorithms In JavaScript](https://codeheir.com/2021/04/03/genetic-algorithms-in-javascript/): ([P5js Editor](https://editor.p5js.org/codeheir/sketches/L6QB5y8gj))
 
 ## Evolution of Games Series
 
