@@ -5,7 +5,13 @@ A repository for all the blogs that I write at https://codeheir.com/ with approp
 ## General Dev Blogs 
 Most of the general blogs can also be found on [dev.to](https://dev.to/lukegarrigan). 
 **Most recent:**
+
+- [How To Code Snake 🐍](https://codeheir.com/2021/05/15/how-to-code-snake-%f0%9f%90%8d/)
+- [Create Fake Data Easily Using JavaScript](https://codeheir.com/2021/05/13/create-fake-data-easily-using-javascript/)
+- [SpaceX Rockets Learn To Land 🚀 (JavaScript)](https://codeheir.com/2021/05/08/spacex-rockets-learn-to-land-%f0%9f%9a%80-javascript/)
+- [Fast prototyping without worrying about the backend](https://codeheir.com/2021/04/25/fast-prototyping-without-worrying-about-the-backend/)
 - [Genetic Algorithms In JavaScript](https://codeheir.com/2021/04/03/genetic-algorithms-in-javascript/): ([P5js Editor](https://editor.p5js.org/codeheir/sketches/L6QB5y8gj))
+- [Neural Network Learns to Drive](https://codeheir.com/2021/04/10/neural-network-learns-to-drive/)
 - [The Flocking Algorithm](https://codeheir.com/2021/03/27/the-flocking-algorithm/): ([P5js Editor](https://editor.p5js.org/codeheir/sketches/73Fnq0QyW))
 - [Regex: From beginner to best on your team in one blog](https://codeheir.com/2021/03/20/regex-from-beginner-to-best-on-your-team-in-one-blog/)
 - [How to code Doodle Jump!](https://codeheir.com/2021/03/13/how-to-code-doodle-jump/)
