@@ -3,7 +3,6 @@
 A repository for all the blogs that I write at https://codeheir.com/ with appropriate links and pointers to any code I've written.
 
 ## General Dev Blogs 
-Most of the general blogs can also be found on [dev.to](https://dev.to/lukegarrigan). 
 **Most recent:**
 
 - [What is Simulated Annealing](https://codeheir.com/2021/05/22/what-is-simulated-annealing/): ([P5js Editor](https://editor.p5js.org/codeheir/sketches/bGSBBXpdN))
