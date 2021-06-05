@@ -4,7 +4,7 @@ A repository for all the blogs that I write at https://codeheir.com/ with approp
 
 ## General Dev Blogs 
 **Most recent:**
-
+- [What is Breadth-First Search (BFS)](https://codeheir.com/2021/06/05/what-is-breadth-first-search-bfs/): ([Sliding-tile implementation](https://github.com/LukeGarrigan/sliding-tile))
 - [What is Simulated Annealing](https://codeheir.com/2021/05/22/what-is-simulated-annealing/): ([P5js Editor](https://editor.p5js.org/codeheir/sketches/bGSBBXpdN))
 - [How To Code Snake 🐍](https://codeheir.com/2021/05/15/how-to-code-snake-%f0%9f%90%8d/)
 - [Create Fake Data Easily Using JavaScript](https://codeheir.com/2021/05/13/create-fake-data-easily-using-javascript/)
