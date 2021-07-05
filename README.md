@@ -4,6 +4,8 @@ A repository for all the blogs that I write at https://codeheir.com/ with approp
 
 ## General Dev Blogs 
 **Most recent:**
+- [A Completely FREE planning poker app 💸 – Speed up your planning process!](https://codeheir.com/2021/07/02/a-completely-free-planning-poker-app-%f0%9f%92%b8-speed-up-your-planning-process/)
+- [Top 5 books EVERY programmer MUST read! 📚](https://codeheir.com/2021/06/26/top-5-books-every-programmer-must-read/)
 - [The Game of Life](https://codeheir.com/2021/06/19/the-game-of-life/): ([P5js Editor](https://editor.p5js.org/codeheir/sketches/gu41ikOre))
 - [What is Breadth-First Search (BFS)](https://codeheir.com/2021/06/05/what-is-breadth-first-search-bfs/): ([Sliding-tile implementation](https://github.com/LukeGarrigan/sliding-tile))
 - [What is Simulated Annealing](https://codeheir.com/2021/05/22/what-is-simulated-annealing/): ([P5js Editor](https://editor.p5js.org/codeheir/sketches/bGSBBXpdN))
