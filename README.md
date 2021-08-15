@@ -4,6 +4,7 @@ A repository for all the blogs that I write at https://codeheir.com/ with approp
 
 ## General Dev Blogs 
 **Most recent:**
+- [Creating an Android app with Kotlin](https://codeheir.com/2021/08/14/creating-an-android-app-with-kotlin/)
 - [My favourite Kotlin features](https://codeheir.com/2021/08/08/my-favourite-kotlin-features/)
 - [Katas in Kotlin](https://codeheir.com/2021/07/31/katas-in-kotlin/)
 - [How To Code a Top-Down Shooter 🔫](https://codeheir.com/2021/07/25/how-to-code-a-top-down-shooter-%f0%9f%94%ab/) ([P5js Editor](https://editor.p5js.org/codeheir/sketches/5syQPc0Tc))
