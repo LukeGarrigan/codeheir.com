@@ -4,6 +4,8 @@ A repository for all the blogs that I write at https://codeheir.com/ with approp
 
 ## General Dev Blogs 
 **Most recent:**
+- [PIN-Based OAuth in Twitter](https://codeheir.com/2021/08/28/pin-based-oauth-in-twitter/)
+- [Forgot what code you committed yesterday? Do THIS!](https://codeheir.com/2021/08/21/forgot-what-code-you-committed-yesterday-do-this/)
 - [Creating an Android app with Kotlin](https://codeheir.com/2021/08/14/creating-an-android-app-with-kotlin/)
 - [My favourite Kotlin features](https://codeheir.com/2021/08/08/my-favourite-kotlin-features/)
 - [Katas in Kotlin](https://codeheir.com/2021/07/31/katas-in-kotlin/)
