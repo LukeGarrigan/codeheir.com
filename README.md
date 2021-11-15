@@ -4,6 +4,8 @@ A repository for all the blogs that I write at https://codeheir.com/ with approp
 
 ## General Dev Blogs 
 **Most recent:**
+- [Botting Cookie Clicker using Node.js
+](https://codeheir.com/2021/11/14/botting-cookie-clicker-using-node-js/)
 - [Rubber Duck Debugging](https://codeheir.com/2021/11/07/rubber-duck-debugging/)
 - [Some AWESOME C# 10 features](https://codeheir.com/2021/10/30/some-awesome-c-10-features/)
 - [Coding a Roomba](https://codeheir.com/2021/10/16/coding-a-roomba/) ([P5js Editor](https://editor.p5js.org/codeheir/sketches/x5K1LrQRK))
