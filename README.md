@@ -4,6 +4,7 @@ A repository for all the blogs that I write at https://codeheir.com/ with approp
 
 ## General Dev Blogs 
 **Most recent:**
+- [What is Tampermonkey?](https://codeheir.com/2021/11/21/what-is-tampermonkey/)
 - [Botting Cookie Clicker using Node.js
 ](https://codeheir.com/2021/11/14/botting-cookie-clicker-using-node-js/)
 - [Rubber Duck Debugging](https://codeheir.com/2021/11/07/rubber-duck-debugging/)
