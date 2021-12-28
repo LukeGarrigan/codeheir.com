@@ -4,6 +4,8 @@ A repository for all the blogs that I write at https://codeheir.com/ with approp
 
 ## General Dev Blogs 
 **Most recent:**
+- [Advent of Code](https://codeheir.com/2021/12/05/advent-of-code/)
+- [Prototyping with code](https://codeheir.com/2021/11/29/prototyping-with-code/)
 - [What is Tampermonkey?](https://codeheir.com/2021/11/21/what-is-tampermonkey/)
 - [Botting Cookie Clicker using Node.js
 ](https://codeheir.com/2021/11/14/botting-cookie-clicker-using-node-js/)
