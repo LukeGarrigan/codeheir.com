@@ -4,6 +4,7 @@ A repository for all the blogs that I write at https://codeheir.com/ with approp
 
 ## General Dev Blogs 
 **Most recent:**
+- [Dijkstra's Algorithm](https://codeheir.com/2021/12/28/dijkstras-algorithm/)
 - [Advent of Code](https://codeheir.com/2021/12/05/advent-of-code/)
 - [Prototyping with code](https://codeheir.com/2021/11/29/prototyping-with-code/)
 - [What is Tampermonkey?](https://codeheir.com/2021/11/21/what-is-tampermonkey/)
