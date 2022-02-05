@@ -4,6 +4,7 @@ A repository for all the blogs that I write at https://codeheir.com/ with approp
 
 ## General Dev Blogs 
 **Most recent:**
+- [Coding a spicy Twitter bot](https://codeheir.com/2022/02/05/coding-a-spicy-twitter-bot/)
 - [Blocking ALL ads on my network](https://codeheir.com/2022/01/23/blocking-all-ads-on-my-network/)
 - [Wall Panelling Calculator](https://codeheir.com/2022/01/08/wall-panelling-calculator/)
 - [Rasberry PI Pico](https://codeheir.com/2021/12/30/raspberry-pi-pico/)
