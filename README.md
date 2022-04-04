@@ -4,6 +4,7 @@ A repository for all the blogs that I write at https://codeheir.com/ with approp
 
 ## General Dev Blogs 
 **Most recent:**
+- [NSubstitute – mock better](https://codeheir.com/2022/04/02/nsubstitute-mock-better/)
 - [Coding a fluent API](https://codeheir.com/2022/03/24/coding-a-fluent-api/)
 - [Mutation Tests – 100% code coverage is not enough](https://codeheir.com/2022/03/05/mutation-tests-100-code-coverage-is-not-enough/)
 - [Tracking crimes with JavaScript](https://codeheir.com/2022/02/27/tracking-crimes-with-javascript/)
