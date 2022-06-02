@@ -4,6 +4,7 @@ A repository for all the blogs that I write at https://codeheir.com/ with approp
 
 ## General Dev Blogs 
 **Most recent:**
+- [Upgrading from Vue 2.x to Vue 3.x](https://codeheir.com/2022/05/29/upgrading-from-vue-2-x-to-vue-3-x/)
 - [What is clean code?](https://codeheir.com/2022/05/14/what-is-clean-code/)
 - [NSubstitute – mock better](https://codeheir.com/2022/04/02/nsubstitute-mock-better/)
 - [Coding a fluent API](https://codeheir.com/2022/03/24/coding-a-fluent-api/)
