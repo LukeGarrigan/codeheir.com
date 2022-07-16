@@ -4,6 +4,8 @@ A repository for all the blogs that I write at https://codeheir.com/ with approp
 
 ## General Dev Blogs 
 **Most recent:**
+- [Coding a base64 Encode in JavaScript](https://codeheir.com/2022/07/02/coding-a-base64-encoder-in-javascript/)
+- [Coding a JSON formatter](https://codeheir.com/2022/06/26/coding-a-json-formatter/)
 - [Upgrading from Vue 2.x to Vue 3.x](https://codeheir.com/2022/05/29/upgrading-from-vue-2-x-to-vue-3-x/)
 - [What is clean code?](https://codeheir.com/2022/05/14/what-is-clean-code/)
 - [NSubstitute – mock better](https://codeheir.com/2022/04/02/nsubstitute-mock-better/)
