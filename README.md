@@ -4,6 +4,7 @@ A repository for all the blogs that I write at https://codeheir.com/ with approp
 
 ## General Dev Blogs 
 **Most recent:**
+- [Comparing Flood Fill Algorithms in JavaScript](https://codeheir.com/2022/08/21/comparing-flood-fill-algorithms-in-javascript/): ([Github](https://github.com/LukeGarrigan/flood-fill))
 - [Date Converter in JavaScript](https://codeheir.com/2022/08/13/date-converter-in-javascript/)
 - [How to code a JWT debugger in JavaScript](https://codeheir.com/2022/07/16/how-to-code-a-jwt-debugger-in-javascript/)
 - [Coding a base64 Encode in JavaScript](https://codeheir.com/2022/07/02/coding-a-base64-encoder-in-javascript/)
