@@ -4,6 +4,7 @@ A repository for all the blogs that I write at https://codeheir.com/ with approp
 
 ## General Dev Blogs 
 **Most recent:**
+- [Coding a file to URL website](https://codeheir.com/2022/09/19/coding-a-file-to-url-website/)
 - [Fixing accessibility issues using Axe](https://codeheir.com/2022/08/27/fixing-accessibility-issues-using-axe/)
 - [Comparing Flood Fill Algorithms in JavaScript](https://codeheir.com/2022/08/21/comparing-flood-fill-algorithms-in-javascript/): ([Github](https://github.com/LukeGarrigan/flood-fill))
 - [Date Converter in JavaScript](https://codeheir.com/2022/08/13/date-converter-in-javascript/)
