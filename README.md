@@ -4,7 +4,7 @@ A repository for all the blogs that I write at https://codeheir.com/ with approp
 
 ## General Dev Blogs 
 **Most recent:**
-- [How does bitwarden work](https://codeheir.com/2022/12/27/how-bitwarden-works/)
+- [How does Bitwarden work?](https://codeheir.com/2022/12/27/how-bitwarden-works/)
 - [How to code Particles](https://codeheir.com/2022/10/22/how-to-code-particles/)
 - [Coding a file to URL website](https://codeheir.com/2022/09/19/coding-a-file-to-url-website/)
 - [Fixing accessibility issues using Axe](https://codeheir.com/2022/08/27/fixing-accessibility-issues-using-axe/)
