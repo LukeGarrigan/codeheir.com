@@ -4,6 +4,7 @@ A repository for all the blogs that I write at https://codeheir.com/ with approp
 
 ## General Dev Blogs 
 **Most recent:**
+- [Wall Paint Calculator](https://codeheir.com/2023/01/21/wall-paint-calculator/)
 - [The State design pattern in C#](https://codeheir.com/2023/01/18/the-state-design-pattern-in-c/)
 - [How does Bitwarden work?](https://codeheir.com/2022/12/27/how-bitwarden-works/)
 - [How to code Particles](https://codeheir.com/2022/10/22/how-to-code-particles/)
