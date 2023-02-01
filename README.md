@@ -4,6 +4,7 @@ A repository for all the blogs that I write at https://codeheir.com/ with approp
 
 ## General Dev Blogs 
 **Most recent:**
+- [Pong Clock](https://codeheir.com/2023/01/29/coding-a-pong-clock-in-javascript/): ([GitHub](https://github.com/LukeGarrigan/pong-clock))
 - [Wall Paint Calculator](https://codeheir.com/2023/01/21/wall-paint-calculator/)
 - [The State design pattern in C#](https://codeheir.com/2023/01/18/the-state-design-pattern-in-c/)
 - [How does Bitwarden work?](https://codeheir.com/2022/12/27/how-bitwarden-works/)
