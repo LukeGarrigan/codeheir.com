@@ -4,6 +4,8 @@ A repository for all the blogs that I write at https://codeheir.com/ with approp
 
 ## General Dev Blogs 
 **Most recent:**
+- [Codewars C# Code Generator](https://codeheir.com/2023/03/11/codewars-code-c-sharp-generator/) ([GitHub](https://github.com/LukeGarrigan/CSharpCodeWars))
+- [Coding Horror Index](https://codeheir.com/2023/02/07/coding-horror-index/)
 - [Pong Clock](https://codeheir.com/2023/01/29/coding-a-pong-clock-in-javascript/) ([GitHub](https://github.com/LukeGarrigan/pong-clock))
 - [Wall Paint Calculator](https://codeheir.com/2023/01/21/wall-paint-calculator/)
 - [The State design pattern in C#](https://codeheir.com/2023/01/18/the-state-design-pattern-in-c/)
