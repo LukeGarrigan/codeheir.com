@@ -4,6 +4,7 @@ A repository for all the blogs that I write at https://codeheir.com/ with approp
 
 ## General Dev Blogs 
 **Most recent:**
+- [Faster sorting with AlphaDev](https://codeheir.com/2023/07/03/faster-sorting-with-alphadev/)
 - [AWS Serverless debacle](https://codeheir.com/2023/05/07/aws-serverless-debarkle/)
 - [Codewars C# Code Generator](https://codeheir.com/2023/03/11/codewars-code-c-sharp-generator/) ([GitHub](https://github.com/LukeGarrigan/CSharpCodeWars))
 - [Coding Horror Index](https://codeheir.com/2023/02/07/coding-horror-index/)
