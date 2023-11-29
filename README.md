@@ -4,6 +4,7 @@ A repository for all the blogs that I write at https://codeheir.com/ with approp
 
 ## General Dev Blogs 
 **Most recent:**
+- [Planfree goes Heroku](https://codeheir.com/2023/11/24/planfree-goes-heroku/)
 - [Vim adventures](https://codeheir.com/)
 - [Faster sorting with AlphaDev](https://codeheir.com/2023/07/03/faster-sorting-with-alphadev/)
 - [AWS Serverless debacle](https://codeheir.com/2023/05/07/aws-serverless-debarkle/)
