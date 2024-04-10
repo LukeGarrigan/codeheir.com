@@ -4,6 +4,7 @@ A repository for all the blogs that I write at https://codeheir.com/ with approp
 
 ## General Dev Blogs 
 **Most recent:**
+- [The Gilded Rose Refactoring Kata](https://codeheir.com/2024/04/10/the-gilded-rose-refactoring-kata/)
 - [Introduction to logic gates](https://codeheir.com/2023/12/28/introduction-to-logic-gates/)
 - [Planfree goes Heroku](https://codeheir.com/2023/11/24/planfree-goes-heroku/)
 - [Vim adventures](https://codeheir.com/)
