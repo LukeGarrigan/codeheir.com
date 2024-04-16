@@ -7,7 +7,7 @@ A repository for all the blogs that I write at https://codeheir.com/ with approp
 - [The Gilded Rose Refactoring Kata](https://codeheir.com/2024/04/10/the-gilded-rose-refactoring-kata/)
 - [Introduction to logic gates](https://codeheir.com/2023/12/28/introduction-to-logic-gates/)
 - [Planfree goes Heroku](https://codeheir.com/2023/11/24/planfree-goes-heroku/)
-- [Vim adventures]([https://codeheir.com/](https://codeheir.com/2023/11/11/vim-adventures/))
+- [Vim adventures](https://codeheir.com/2023/11/11/vim-adventures/)
 - [Faster sorting with AlphaDev](https://codeheir.com/2023/07/03/faster-sorting-with-alphadev/)
 - [AWS Serverless debacle](https://codeheir.com/2023/05/07/aws-serverless-debarkle/)
 - [Codewars C# Code Generator](https://codeheir.com/2023/03/11/codewars-code-c-sharp-generator/) ([GitHub](https://github.com/LukeGarrigan/CSharpCodeWars))
